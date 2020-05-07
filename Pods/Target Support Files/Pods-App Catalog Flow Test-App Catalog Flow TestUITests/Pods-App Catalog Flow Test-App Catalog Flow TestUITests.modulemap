@@ -1,0 +1,6 @@
+framework module Pods_App_Catalog_Flow_Test_App_Catalog_Flow_TestUITests {
+  umbrella header "Pods-App Catalog Flow Test-App Catalog Flow TestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
